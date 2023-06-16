@@ -1,6 +1,6 @@
 #! /bin/sh
 
-sxhkd & picom & polybar & feh --bg-fill /home/daniel/Imágenes/imagen/922093.jpg
+sxhkd & picom & polybar & nitrogen --restore
 #xrandr -s 1920x1440 &
 
 # feh --bg-fill /home/daniel/Imágenes/imagen/1150256.jpg
